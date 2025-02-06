@@ -1,0 +1,15 @@
+# Unity Gereksiz Dosyalar
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+Packages/
+Logs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.vscode
+*.DS_Store
